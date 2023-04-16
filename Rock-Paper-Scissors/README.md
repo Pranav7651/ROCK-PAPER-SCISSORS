@@ -1,3 +1,8 @@
 # Rock-Paper-Scissors
 
-![App Screenshot](https://cdn.pixabay.com/photo/2023/04/10/10/19/mountain-7913365_960_720.jpg)
+Its a Computer vs Human game.
+
+Here you need to select one option among rock, paper, scissor and the other will be chosen by the computer.
+
+Below are some pictures of this project.
+
